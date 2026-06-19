@@ -1,0 +1,4 @@
+Method,Security,Accuracy,Speed
+Raw Template Matching,Low,High,Fast
+AES-Based Matching,Medium,High,Medium
+Homomorphic Matching,Very High,68.75%,Slower
