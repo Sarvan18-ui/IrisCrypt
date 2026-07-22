@@ -1,5 +1,5 @@
 Metric,Value
-Average Genuine Score,0.331113975697681
-Average Impostor Score,0.00044165083049351405
-Threshold,0.16577781326408725
-Authentication Accuracy,68.85
+Average Genuine Score,0.32788110274803284
+Average Impostor Score,0.0035622413664079602
+Threshold,0.1657216720572204
+Authentication Accuracy,68.35
